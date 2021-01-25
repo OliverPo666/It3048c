@@ -12,8 +12,10 @@ Ever need to know if you need to put the pool cover on so it is not too cold to 
  ## Storyboard
  
 Link to invision: [Storyboard](https://projects.invisionapp.com/prototype/ckkbtob2p00efe701f83r6ter/play)
-![image1](https://github.com/OliverPo666/image-for-weather-notice/blob/main/1.png)
 
+![image1](https://github.com/OliverPo666/image-for-weather-notice/blob/main/1.png)
+![image2](https://github.com/OliverPo666/image-for-weather-notice/blob/main/2.png)
+![image3](https://github.com/OliverPo666/image-for-weather-notice/blob/main/3.png)
    
 ## Functional Requirements
 
