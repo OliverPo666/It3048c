@@ -1,6 +1,5 @@
 # WeatherNotice
----
-Tyler Hitchner, Adam Holt, Oliver Lu
+Oliver Lu
 
 ## Introduction
 Ever need to know if you need to put the pool cover on so it is not too cold to swim later on or when alert to bring the plants if it's too cold outside. Well with WeatherNotice, it will solve those issues for you.  
@@ -27,13 +26,6 @@ I want an app to inform me of ever changing weather and to alert me if a certain
 - its going a cool and may want put the pool cover up to keep it warm for later use.
 - when snowing to alert me I need start leave early for work to clean off car of snow and prepare for unwanted road conditions.
 - Then alert me the it is freezing and I need take in the plants inside to keep alive
-
-
-## Scrum Roles
-
-- DevOps/Product Owner/Scrum Master: T.Hitchner
-- Frontend Developer: Oliver Lu 
-- Integration Developer: Adam Holt
 
 
 
